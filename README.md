@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently Tech lead at CSC at HRIT University <br>I am currently student <br>I am studying cybersecurity <br>I am interested in blue teaming<br>
+Tech lead at CSC at HRIT University <br>B.Tech CSE student <br> Cybersecurity Enthusiast <br>Blue Teamer <br> ISC2  Certified in Cybersecurity <br>
 
 
 ## 🌐 Socials:
