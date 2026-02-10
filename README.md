@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tech lead at CSC at HRIT University <br>B.Tech CSE student <br> Cybersecurity Enthusiast <br>Blue Teamer <br> ISC2  Certified in Cybersecurity <br>
+Tech lead at CSC at HRIT University <br>B.Tech CSE student <br> Cybersecurity Enthusiast <br>Red & Blue Teamer <br> ISC2  Certified in Cybersecurity <br>
 
 
 ## 🌐 Socials:
