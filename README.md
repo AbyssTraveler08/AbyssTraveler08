@@ -18,8 +18,6 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **B.Tech Computer Science student** building practical skills in cybersecurity, network security, Linux, and Python. I enjoy developing security tools and learning how to identify, assess, and communicate security risks.
-
 - 🔐 Interested in **offensive security and defensive security**
 - 🛡️ Exploring SOC workflows, threat intelligence, vulnerability assessment, and network analysis
 - 🐍 Building security-focused tools with Python and open-source technologies
