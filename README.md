@@ -1,5 +1,21 @@
 # 💫 About Me:
-Tech lead at CSC at HRIT University <br>B.Tech CSE student <br> Cybersecurity Enthusiast <br>Red & Blue Teamer <br> ISC2  Certified in Cybersecurity <br>
+I’m a B.Tech Computer Science student building practical skills in cybersecurity, network security, Linux, Python, and defensive security.
+
+My interests include Security Operations Center (SOC) workflows, threat intelligence, vulnerability assessment, network analysis, and endpoint/file activity monitoring. I enjoy building security-focused tools and investigating how technical issues can be identified, validated, and documented.
+
+Selected projects and experience:
+
+VULNEX: Team-lead experience on a Python-based vulnerability scanning and reporting tool using Nmap, vulnerability analysis, risk scoring, and PDF reporting. The project was selected among the Top 10 at Technova Hackathon 2026.
+
+Secure File Transfer Monitoring System: Worked on file-activity monitoring, SHA-256 integrity verification, event correlation, logging, and security-reporting features.
+
+CyArt Tech — SOC Domain Internship: Contributing to project-related quality assurance, source-code review, UI behavior validation, troubleshooting, and evidence-based technical reporting for DarkTrace, a threat-intelligence platform.
+
+Linux and networking projects: Building practical understanding of system configuration, network interfaces, and security-focused Python scripting.
+
+I’m continuing to strengthen my cybersecurity knowledge through hands-on practice, personal projects, and TryHackMe.
+
+Technical interests: SOC and Blue Team security, threat intelligence, network security, vulnerability assessment, Linux, Python, Nmap, and Wireshark. <br>
 
 
 ## 🌐 Socials:
