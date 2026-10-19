@@ -41,6 +41,7 @@ I'm a **B.Tech Computer Science student** interested in building practical, reli
       <p>A Python-based vulnerability scanning and reporting project focused on organizing scan results, assessing risk, and producing structured reports.</p>
       <p><strong>Focus:</strong> Vulnerability assessment · Nmap · Risk scoring · PDF reporting</p>
       <p><em>Team lead — Top 10, Technova Hackathon 2026</em></p>
+      <p><a href="https://github.com/AbyssTraveler08/vulnex">View repository →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🧬 PDF Malware Analysis Toolkit</h3>
