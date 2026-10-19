@@ -24,14 +24,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **B.Tech Computer Science student** building practical skills in cybersecurity, network security, Linux, and Python. I enjoy developing security tools and learning how to identify, assess, and communicate security risks.
+I'm a **B.Tech Computer Science student** interested in building practical, reliable security tools and understanding how systems can be protected. I enjoy combining hands-on technical work with clear documentation and responsible testing.
 
-- 🔐 Interested in **offensive security and defensive security**
-- 🛡️ Exploring SOC workflows, threat intelligence, vulnerability assessment, and network analysis
-- 🐍 Building security-focused tools with Python and open-source technologies
-- 🧪 Learning through hands-on labs, personal projects, and TryHackMe
-- 🏆 Team lead on **VULNEX**, selected among the Top 10 at **Technova Hackathon 2026**
-- 🎤 Delivered a phishing-awareness session with **Shiva Mishra** on **15 September 2026**
+- 🔐 **Focus areas:** SOC operations, VAPT, and security automation
+- 🐍 **Builder mindset:** Python-based security tools and repeatable workflows
+- 🧪 **Hands-on learning:** Linux, networking, security labs, and TryHackMe
 
 ---
 
@@ -117,9 +114,9 @@ I'm a **B.Tech Computer Science student** building practical skills in cybersecu
 
 ## 💼 Experience & Activities
 
-- **VULNEX — Team Lead:** Contributed to a vulnerability-scanning and reporting project selected among the Top 10 at Technova Hackathon 2026.
-- **CyArt Tech — SOC-domain internship:** Worked on project-related QA, source-code review, UI behavior validation, troubleshooting, and evidence-based technical reporting for a threat-intelligence platform.
-- **Phishing Awareness Session — 15 September 2026:** Delivered an awareness session with Shiva Mishra, focused on helping participants recognize phishing risks.
+- **VULNEX — Team Lead:** Led project work on a vulnerability-scanning and reporting tool. The project was selected among the **Top 10 at Technova Hackathon 2026**.
+- **CyArt Tech — SOC-domain internship:** Contributed to QA, source-code review, UI validation, troubleshooting, and evidence-based reporting for a threat-intelligence platform.
+- **Phishing Awareness Session — 15 September 2026:** Co-delivered an awareness session with **Shiva Mishra** to help participants recognize phishing risks.
 
 ---
 
@@ -136,8 +133,6 @@ I'm a **B.Tech Computer Science student** building practical skills in cybersecu
 
 ---
 
----
-
 ## 💬 Security Mindset
 
 <div align="center">
@@ -149,7 +144,8 @@ I'm a **B.Tech Computer Science student** building practical skills in cybersecu
 </div>
 
 ---
-\n## 🎯 Current Learning Goals
+
+## 🎯 Current Learning Goals
 
 - Strengthen practical skills in network security and vulnerability assessment
 - Improve Linux security, enumeration, and troubleshooting
