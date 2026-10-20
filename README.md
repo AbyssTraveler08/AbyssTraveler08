@@ -124,12 +124,12 @@ I'm a **B.Tech Computer Science student** interested in building practical, reli
 ## 📊 GitHub at a Glance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbyssTraveler08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub statistics" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbyssTraveler08&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most used programming languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbyssTraveler08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400&v=20261020" alt="GitHub statistics" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbyssTraveler08&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=20261020" alt="Most used programming languages" height="165">
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbyssTraveler08&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%">
+  <img src="https://streak-stats.demolab.com?user=AbyssTraveler08&theme=tokyonight&hide_border=true&v=20261020" alt="GitHub contribution streak" width="70%">
 </div>
 
 ---
