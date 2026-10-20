@@ -124,8 +124,8 @@ I'm a **B.Tech Computer Science student** interested in building practical, reli
 ## 📊 GitHub at a Glance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbyssTraveler08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbyssTraveler08&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbyssTraveler08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub statistics" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbyssTraveler08&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most used programming languages" height="165">
 </div>
 
 <div align="center">
