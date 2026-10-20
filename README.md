@@ -116,7 +116,7 @@ I'm a **B.Tech Computer Science student** interested in building practical, reli
 ## 💼 Experience & Activities
 
 - **VULNEX — Team Lead:** Led project work on a vulnerability-scanning and reporting tool. The project was selected among the **Top 10 at Technova Hackathon 2026**.
-- **CyArt Tech — SOC-domain internship:** Contributed to QA, source-code review, UI validation, troubleshooting, and evidence-based reporting for a threat-intelligence platform.
+- **CyArt Tech — SOC-domain internship:** Contributed to QA, Security baseline checker, source-code review, UI validation, troubleshooting, and evidence-based reporting for a threat-intelligence platform.
 - **Phishing Awareness Session — Engineer's Day (15 September 2026):** Co-delivered an awareness session to help participants recognize phishing risks.
 
 ---
