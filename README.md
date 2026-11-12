@@ -124,13 +124,12 @@ I'm a **B.Tech Computer Science student** interested in building practical, reli
 ## 📊 GitHub at a Glance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbyssTraveler08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400&v=20261020" alt="GitHub statistics" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbyssTraveler08&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=20261020" alt="Most used programming languages" height="165">
+  <img src="./assets/github-stats.svg" alt="GitHub profile overview" width="100%">
+  <img src="./assets/languages.svg" alt="Most used programming languages across public repositories" width="100%">
+  <img src="./assets/contribution-streak.svg" alt="GitHub contribution activity and streaks" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbyssTraveler08&theme=tokyonight&hide_border=true&v=20261020" alt="GitHub contribution streak" width="70%">
-</div>
+<sub>Statistics are generated from GitHub's API and refreshed automatically every day by GitHub Actions. Contribution streaks and totals cover the most recent 365 days; language usage is calculated from your public, non-fork repositories.</sub>
 
 ---
 
