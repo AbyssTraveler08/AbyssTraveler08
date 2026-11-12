@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="235" viewBox="0 0 740 235">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171b2b"/><stop offset="1" stop-color="#202b45"/></linearGradient></defs>
+<rect x="1" y="1" width="738" height="233" rx="16" fill="url(#bg)" stroke="#344563"/>
+<text x="28" y="42" fill="#79aaff" font-family="Arial,sans-serif" font-size="23" font-weight="700">Contribution Activity</text>
+<text x="45" y="125" fill="#f1f5ff" font-family="Arial,sans-serif" font-size="30" font-weight="700">146</text><text x="45" y="150" fill="#9eacc7" font-family="Arial,sans-serif" font-size="13">Contributions · last 365 days</text><text x="285" y="125" fill="#f1f5ff" font-family="Arial,sans-serif" font-size="30" font-weight="700">3</text><text x="285" y="150" fill="#9eacc7" font-family="Arial,sans-serif" font-size="13">Current streak · days</text><text x="525" y="125" fill="#f1f5ff" font-family="Arial,sans-serif" font-size="30" font-weight="700">3</text><text x="525" y="150" fill="#9eacc7" font-family="Arial,sans-serif" font-size="13">Longest streak · last 365 days</text><text x="45" y="205" fill="#9eacc7" font-family="Arial,sans-serif" font-size="13">Contribution activity from 2025-11-13 through 2026-11-12</text>
+</svg>
