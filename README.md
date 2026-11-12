@@ -121,6 +121,20 @@ I'm a **B.Tech Computer Science student** interested in building practical, reli
 
 ---
 
+## ✍️ Writing & Publications
+
+### 📝 AI-Assisted Internal Pentesting
+
+Published an article exploring how AI can support internal penetration-testing workflows, including reconnaissance, security assessment, and the practical role of human validation in responsible security testing.
+
+<p>
+  <a href="https://medium.com/@abysstraveler/ai-assisted-internal-pentesting-b3955f41add3?sharedUserId=abysstraveler">
+    <img src="https://img.shields.io/badge/Read%20Published%20Article-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read AI-Assisted Internal Pentesting on Medium">
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub at a Glance
 
 <div align="center">
