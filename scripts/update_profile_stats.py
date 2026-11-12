@@ -80,8 +80,8 @@ def main():
     ]
     active = [day for day in days if day[1] > 0]
     current_streak = 0
-    cursor = today
     day_map = dict(days)
+    cursor = today if day_map.get(today, 0) > 0 else today - timedelta(days=1)
     while day_map.get(cursor, 0) > 0:
         current_streak += 1
         cursor -= timedelta(days=1)
