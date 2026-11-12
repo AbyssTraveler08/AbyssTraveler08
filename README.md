@@ -126,7 +126,7 @@ I'm a **B.Tech Computer Science student** interested in building practical, reli
 <div align="center">
   <img src="./assets/github-stats.svg" alt="GitHub profile overview" width="100%">
   <img src="./assets/languages.svg" alt="Most used programming languages across public repositories" width="100%">
-  <img src="./assets/contribution-streak.svg" alt="GitHub contribution activity and streaks" width="100%">
+  <img src="./assets/contribution-streak.svg?v=20261112-circular" alt="GitHub contribution activity and streaks" width="100%">
 </div>
 
 <sub>Statistics are generated from GitHub's API and refreshed automatically every day by GitHub Actions. Contribution streaks and totals cover the most recent 365 days; language usage is calculated from your public, non-fork repositories.</sub>
