@@ -135,13 +135,23 @@ def main():
         rows = '<text x="32" y="145" fill="#e8eefc" font-family="Arial,sans-serif" font-size="15">No public language data available yet.</text>'
     Path("assets/languages.svg").write_text(svg_card("Most Used Languages · Public Repositories", 740, 245, bars + rows), encoding="utf-8")
 
+    # Circular streak layout, inspired by the classic contribution-streak card.
     streak_body = (
-        metric(45, 125, calendar["totalContributions"], "Contributions · last 365 days") +
-        metric(285, 125, current_streak, "Current streak · days") +
-        metric(525, 125, longest, "Longest streak · last 365 days") +
-        f'<text x="45" y="205" fill="#9eacc7" font-family="Arial,sans-serif" font-size="13">Contribution activity from {since.isoformat()} through {today.isoformat()}</text>'
+        '<line x1="245" y1="72" x2="245" y2="255" stroke="#52627d" stroke-width="1.5"/>'
+        '<line x1="495" y1="72" x2="495" y2="255" stroke="#52627d" stroke-width="1.5"/>'
+        f'<text x="122" y="145" text-anchor="middle" fill="#79aaff" font-family="Arial,sans-serif" font-size="43" font-weight="700">{calendar["totalContributions"]}</text>'
+        '<text x="122" y="177" text-anchor="middle" fill="#9eacc7" font-family="Arial,sans-serif" font-size="17">Total Contributions</text>'
+        f'<text x="122" y="213" text-anchor="middle" fill="#36c9b5" font-family="Arial,sans-serif" font-size="14">{since.strftime("%b %d, %Y")} – {today.strftime("%b %d, %Y")}</text>'
+        '<circle cx="370" cy="145" r="62" fill="none" stroke="#344563" stroke-width="11"/>'
+        '<circle cx="370" cy="145" r="62" fill="none" stroke="#79aaff" stroke-width="11" stroke-linecap="round" stroke-dasharray="350 40" transform="rotate(-90 370 145)"/>'
+        f'<text x="370" y="157" text-anchor="middle" fill="#c792ea" font-family="Arial,sans-serif" font-size="42" font-weight="700">{current_streak}</text>'
+        '<text x="370" y="236" text-anchor="middle" fill="#c792ea" font-family="Arial,sans-serif" font-size="19" font-weight="700">Current Streak</text>'
+        f'<text x="370" y="260" text-anchor="middle" fill="#36c9b5" font-family="Arial,sans-serif" font-size="14">{today.strftime("%b %d")}</text>'
+        f'<text x="618" y="145" text-anchor="middle" fill="#79aaff" font-family="Arial,sans-serif" font-size="43" font-weight="700">{longest}</text>'
+        '<text x="618" y="177" text-anchor="middle" fill="#9eacc7" font-family="Arial,sans-serif" font-size="17">Longest Streak</text>'
+        '<text x="618" y="213" text-anchor="middle" fill="#36c9b5" font-family="Arial,sans-serif" font-size="14">Last 365 days</text>'
     )
-    Path("assets/contribution-streak.svg").write_text(svg_card("Contribution Activity", 740, 235, streak_body), encoding="utf-8")
+    Path("assets/contribution-streak.svg").write_text(svg_card("Contribution Activity", 740, 285, streak_body), encoding="utf-8")
     print(f"Updated profile stats for {USERNAME}: {len(repos)} public repositories, {calendar['totalContributions']} contributions in the last 365 days.")
 
 if __name__ == "__main__":
