@@ -5,10 +5,10 @@
 ### Cybersecurity Enthusiast | Aspiring Cybersecurity Engineer | Offensive & Defensive Security
 
 <p>
-  <a href="https://github.com/AbyssTraveler08"><img src="https://img.shields.io/badge/GitHub-AbyssTraveler08-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/amar-kant-yadav/"><img src="https://img.shields.io/badge/LinkedIn-Amar%20Kant%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@abysstraveler"><img src="https://img.shields.io/badge/Medium-@abysstraveler-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="mailto:princeamarkant9@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/AbyssTraveler08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/amar-kant-yadav/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@abysstraveler"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:princeamarkant9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:12304a,100:087e8b&height=210&section=header&text=SOC%20ANALYST%20%7C%20VAPT%20%7C%20SECURITY%20AUTOMATION&fontSize=25&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Cybersecurity, Python and networking banner" width="100%">
